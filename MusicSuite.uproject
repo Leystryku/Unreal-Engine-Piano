@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{CC8A172F-42E2-12CE-22D0-ABAFC2DBCA9A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MusicSuite",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "WebBrowserWidget",
+			"Enabled": true
+		}
+	]
+}
